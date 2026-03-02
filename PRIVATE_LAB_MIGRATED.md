@@ -1,16 +1,5 @@
-# Private Lab Migration Notice
+# Private Lab Migration Notice (Archived)
 
-The `private_lab/` workspace has been moved out of this forked repository into a standalone repository at:
+这份迁移说明已归档。
 
-- `/workspace/aegis-asset-lab`
-
-## Why
-This repository is a fork and not ideal for private permission control. The private lab now lives in an independent repo so it can be managed and published privately.
-
-## Rollback / Recovery
-If needed, you can recover the previous in-repo version via git history:
-
-- Restore folder from previous commit:
-  - `git checkout HEAD~1 -- private_lab`
-
-Or reset to a commit before this migration.
+当前状态：`private_lab/` 已恢复到本仓库内继续开发。
