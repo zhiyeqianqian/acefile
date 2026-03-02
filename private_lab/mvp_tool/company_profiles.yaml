@@ -1,0 +1,23 @@
+google:
+  aliases:
+    - google
+    - alphabet
+  seed_domains:
+    - google.com
+    - youtube.com
+
+tencent:
+  aliases:
+    - tencent
+    - 腾讯
+  seed_domains:
+    - tencent.com
+    - qq.com
+
+meituan:
+  aliases:
+    - meituan
+    - 美团
+  seed_domains:
+    - meituan.com
+    - dianping.com
